@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/helloworld_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/aws[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/com/aws[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/aws/utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/com/aws/utils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/aws/utils/HelloS3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/com/aws/utils/HelloS3$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/aws/utils/HelloS3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/com/aws/utils/HelloS3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/edudev/IdeaProjects/HelloWorld/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

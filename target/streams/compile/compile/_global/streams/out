@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/edudev/IdeaProjects/HelloWorld/src/main/scala/Main.scala:5:27: not found: value Calendar[0m
+[0m[[0m[31merror[0m] [0m[0m    println(format.format(Calendar.getInstance().getTime()))[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
