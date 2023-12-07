@@ -89,6 +89,7 @@ object HelloS3 {
       // Baixando o objeto
       val inputStream = s3.getObject(getObjectRequest)
       java.nio.file.Files.copy(inputStream, destinationPath, StandardCopyOption.REPLACE_EXISTING)
+
       inputStream.close()
 
       System.out.println(s"Object $objectKey downloaded to $destinationPath")
